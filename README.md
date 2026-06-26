@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
