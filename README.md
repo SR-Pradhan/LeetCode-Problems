@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
