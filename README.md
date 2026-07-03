@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
@@ -48,8 +50,21 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
