@@ -1,15 +1,16 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
+         int count = 0;
+        int currSum = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, 1);
 
-        int n = nums.length;
-        int count = 0;
-
-        for(int i = 0; i < n; i++){
-            int sum = 0;
-            for(int j = i; j < n; j++){ // j is starting from i, sub array must be contigious
-                sum += nums[j];
-                if(sum == k) count++;
+        for (int x : nums) {
+            currSum += x;
+            if (map.containsKey(currSum - k)) {
+                count += map.get(currSum - k);
             }
+            map.put(currSum, map.getOrDefault(currSum, 0) + 1);
         }
         return count;
     }
