@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -79,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
