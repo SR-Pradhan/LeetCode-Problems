@@ -1,27 +1,17 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-
-        int n = numbers.length;
-        int[] res = new int[2];
-
         int i = 0;
-        int j = n-1;
+        int j  = numbers.length - 1;
 
         while(i < j){
-            int sum = numbers[i] + numbers[j];
-            if(sum == target){
-                res[0] = i + 1;
-                res[1] = j + 1;
-                break;
-            }else if(sum < target){
-                i++;
-            }else{
-                j--;
-            }
+            int ans = numbers[j] + numbers[i];
+
+            if(ans == target) return new int[]{i + 1, j + 1};
+
+            if(ans < target) i++;
+            else j--;
+            
         }
-        return res; 
+        return new int[]{};
     }
 }
-//Pattern: Two Pointer
-//T.C: O(n)
-//S.C: O(1)
