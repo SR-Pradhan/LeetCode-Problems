@@ -5,25 +5,21 @@ class Solution {
 
         String str = s.toLowerCase();
 
-        while (i < j) {
-            if (!Character.isLetterOrDigit(str.charAt(i))) {
+        while( i < j){
+            if(!Character.isLetterOrDigit(str.charAt(i))){
                 i++;
                 continue;
             }
-
-            if (!Character.isLetterOrDigit(str.charAt(j))) {
+            if(!Character.isLetterOrDigit(str.charAt(j))){
                 j--;
                 continue;
             }
 
-            if (str.charAt(i) != str.charAt(j)) {
-                return false;
-            }
+             if(str.charAt(i) != str.charAt(j)) return false;
 
             i++;
             j--;
         }
-
         return true;
     }
 }
