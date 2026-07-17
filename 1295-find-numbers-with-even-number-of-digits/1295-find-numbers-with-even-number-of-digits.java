@@ -2,17 +2,11 @@ class Solution {
     public int findNumbers(int[] nums) {
 
         int n = nums.length;
-        int maxCount = 0;
+        int count = 0;
 
         for(int i = 0; i < n; i++){
-            int count = 0;
-            while(nums[i] > 0){
-                nums[i] /= 10;
-                count++;
-            }
-            if(count % 2 == 0) maxCount++;
+            if((nums[i] >= 10 && nums[i] <= 99) || (nums[i] >= 1000 && nums[i] <= 9999) || (nums[i] == 100000)) count++;
         }
-
-        return maxCount;
+        return count;
     }
 }
