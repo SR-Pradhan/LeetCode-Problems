@@ -1,48 +1,49 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        int left = 0;
-        int right = matrix[0].length - 1;
-        int top = 0;
-        int buttom = matrix.length - 1;
 
         int m = matrix.length;
         int n = matrix[0].length;
 
-        List<Integer> list = new ArrayList<Integer>();
+        int left = 0;
+        int right = n - 1;
+        int top = 0;
+        int bottom = m - 1;
 
-        while(left <= right && top <= buttom){
-            // left --> right (top row)
-            for(int i = left; i <= right; i++){
+        List<Integer> list = new ArrayList<>();
+
+        while (left <= right && top <= bottom) {
+
+            // Traverse from Left → Right (Top Row)
+            for (int i = left; i <= right; i++) {
                 list.add(matrix[top][i]);
             }
             top++;
 
-            // top --> buttom (right column)
-            for(int j = top; j <= buttom; j++){
-                list.add(matrix[j][right]);
+            // Traverse from Top → Bottom (Right Column)
+            for (int i = top; i <= bottom; i++) {
+                list.add(matrix[i][right]);
             }
             right--;
 
-            // check if buttom row exist or not          
-            if(top <= buttom){ 
-
-                 // right --> left (buttom row)  
-                for(int k = right; k >= left; k--){
-                list.add(matrix[buttom][k]);
+            // Traverse from Right → Left (Bottom Row)
+            // Only if the bottom row still exists
+            if (top <= bottom) {
+                for (int i = right; i >= left; i--) {
+                    list.add(matrix[bottom][i]);
                 }
-                buttom--;
+                bottom--;
             }
-            
-            // check if left column exist or not    
-            if(left <= right){ 
 
-                // buttom --> top (left column)
-                for(int l = buttom; l >= top; l--){
-                list.add(matrix[l][left]);
+            // Traverse from Bottom → Top (Left Column)
+            // Only if the left column still exists
+            if (left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    list.add(matrix[i][left]);
                 }
                 left++;
             }
         }
+
         return list;
     }
 }
