@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
