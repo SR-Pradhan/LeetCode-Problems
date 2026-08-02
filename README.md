@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0177-nth-highest-salary) |
 | [0584-find-customer-referee](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0620-not-boring-movies) |
