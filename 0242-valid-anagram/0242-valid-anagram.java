@@ -7,20 +7,25 @@ class Solution {
             return false;
         }
 
-        HashMap<Character, Integer> map1 = new HashMap<>();
-        HashMap<Character, Integer> map2 = new HashMap<>();
+        int[] freq = new int[26];
 
-        // Store the frequency of each character in s
+        // Count the frequency of each character in s
         for (int i = 0; i < s.length(); i++) {
-            map1.put(s.charAt(i), map1.getOrDefault(s.charAt(i), 0) + 1);
+            freq[s.charAt(i) - 'a']++;
         }
 
-        // Store the frequency of each character in t
+        // Decrease the frequency for each character in t
         for (int i = 0; i < t.length(); i++) {
-            map2.put(t.charAt(i), map2.getOrDefault(t.charAt(i), 0) + 1);
+            freq[t.charAt(i) - 'a']--;
         }
 
-        // Compare both frequency maps
-        return map1.equals(map2);
+        // If any frequency is not zero, the strings are not anagrams
+        for (int i = 0; i < freq.length; i++) {
+            if (freq[i] != 0) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
