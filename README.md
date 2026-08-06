@@ -193,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
