@@ -2,22 +2,25 @@ class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
 
         int n = nums.length;
+        ArrayList<Integer> ans = new ArrayList<>();
 
-        HashSet<Integer> set = new HashSet<>();
-        ArrayList<Integer> answer = new ArrayList<>();
-
-        // Store all numbers present in the array.
+        // Mark the index corresponding to every number as negative.
         for (int i = 0; i < n; i++) {
-            set.add(nums[i]);
+
+            int value = Math.abs(nums[i]);
+            int index = value - 1;
+
+            // Keep the value negative even if the number appears multiple times.
+            nums[index] = -Math.abs(nums[index]);
         }
 
-        // Check which numbers from 1 to n are missing.
-        for (int i = 1; i <= n; i++) {
-            if (!set.contains(i)) {
-                answer.add(i);
+        // Positive values indicate that the corresponding number is missing.
+        for (int i = 0; i < n; i++) {
+            if (nums[i] >= 0) {
+                ans.add(i + 1);
             }
         }
 
-        return answer;
+        return ans;
     }
 }
