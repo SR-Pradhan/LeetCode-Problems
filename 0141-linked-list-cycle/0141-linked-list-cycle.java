@@ -1,24 +1,33 @@
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
 public class Solution {
     public boolean hasCycle(ListNode head) {
 
-        HashSet<ListNode> set = new HashSet<>();
-        ListNode curr = head;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while (curr != null) {
+        while (fast != null && fast.next != null) {
 
-            // If the current node was already visited, a cycle exists.
-            if (set.contains(curr)) {
+            // Move slow one step and fast two steps.
+            slow = slow.next;
+            fast = fast.next.next;
+
+            // If both pointers meet, a cycle exists.
+            if (slow == fast) {
                 return true;
-            } else {
-                // Store the current node as visited.
-                set.add(curr);
-
-                // Move to the next node.
-                curr = curr.next;
             }
         }
 
-        // Reached null, so there is no cycle.
+        // Fast reached the end, so there is no cycle.
         return false;
     }
 }
