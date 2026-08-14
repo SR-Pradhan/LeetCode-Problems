@@ -12,39 +12,31 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
 
-        ListNode temp = head;
-        int len = 0;
+        // Create a dummy node before the head
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-        // Find the length of the linked list
-        while (temp != null) {
-            temp = temp.next;
-            len++;
+        ListNode slow = dummy;
+        ListNode fast = dummy;
+
+        // Create a gap of n nodes between fast and slow
+        int i = 0;
+
+        while (i < n) {
+            fast = fast.next;
+            i++;
         }
 
-        // Position of the node before the target node
-        int node = len - n;
-
-        // If the head itself needs to be removed
-        if (node == 0) {
-            head = head.next;
-            return head;
+        // Move both pointers until fast reaches the last node
+        while (fast.next != null) {
+            slow = slow.next;
+            fast = fast.next;
         }
 
-        temp = head;
-        int count = 1;
+        // Remove the Nth node from the end
+        slow.next = slow.next.next;
 
-        // Find the node before the target and skip the target
-        while (temp != null) {
-
-            if (node == count) {
-                temp.next = temp.next.next;
-                break;
-            }
-
-            temp = temp.next;
-            count++;
-        }
-
-        return head;
+        // dummy.next is the new head
+        return dummy.next;
     }
 }
