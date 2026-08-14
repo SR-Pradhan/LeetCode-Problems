@@ -8,53 +8,41 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-
-        if (head == null) {
-            return null;
-        }
-
+        int len = 0;
         ListNode temp = head;
         ListNode tail = head;
-        int count = 0;
 
-        // Find the length and the last node
-        while (temp != null) {
 
-            if (temp.next == null) {
+        while(temp != null){
+            if(temp.next == null){
                 tail = temp;
             }
-
             temp = temp.next;
-            count++;
+            len++;
         }
 
-        // Reduce unnecessary full rotations
-        k = k % count;
-
-        if (k == 0) {
-            return head;
+        if (head == null) {
+           return head;
         }
 
-        // Find the new tail: (count - k)th node
+        k = k % len;
+        if(k == 0) return head;
+
         ListNode newTail = head;
-        int newTailPosition = count - k;
+        int newTailPosn = len - k;
 
-        for (int i = 1; i < newTailPosition; i++) {
+        for(int i = 1; i < newTailPosn; i++){
             newTail = newTail.next;
         }
 
-        // The node after newTail becomes the new head
         ListNode newHead = newTail.next;
-
-        // Break the list at newTail
         newTail.next = null;
 
-        // Connect the old tail to the old head
+
         tail.next = head;
 
-        return newHead;
+        return newHead;        
     }
 }
