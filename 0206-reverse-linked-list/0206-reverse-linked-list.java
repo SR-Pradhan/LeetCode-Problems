@@ -10,24 +10,18 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-
-        ListNode prev = null;
+        //ListNode temp = null;
         ListNode curr = head;
+        ListNode prev = null;
 
-        while (curr != null) {
 
-            // Save the next node before changing the link.
+        while(curr != null){
             ListNode nextNode = curr.next;
-
-            // Reverse the current node's pointer.
             curr.next = prev;
-
-            // Move previous and current one step forward.
             prev = curr;
+
             curr = nextNode;
         }
-
-        // Previous becomes the new head.
-        return prev;
+        return prev;   
     }
 }
