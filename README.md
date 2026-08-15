@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
