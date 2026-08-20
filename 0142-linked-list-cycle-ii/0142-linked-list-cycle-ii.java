@@ -9,27 +9,18 @@
  *     }
  * }
  */
-
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-
-        // Store visited nodes to detect repetition
-        HashSet<ListNode> set = new HashSet<>();
-
         ListNode temp = head;
 
-        while (temp != null) {
+        HashSet<ListNode> set = new HashSet<>();
 
-            // If the node was already visited, it is the cycle's start
-            if (set.contains(temp)) {
-                return temp;
-            }
+        while(temp != null){
+            if(set.contains(temp)) return temp;
+            else set.add(temp);
 
-            set.add(temp);
             temp = temp.next;
-        }
-
-        // Reached the end, so there is no cycle
-        return null;
+        }  
+        return null; 
     }
 }
