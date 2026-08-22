@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0344-reverse-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
