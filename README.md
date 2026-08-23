@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
