@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
