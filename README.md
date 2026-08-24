@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
