@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0665-non-decreasing-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
