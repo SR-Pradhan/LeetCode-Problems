@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0056-merge-intervals) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
