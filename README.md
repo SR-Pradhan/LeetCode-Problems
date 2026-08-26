@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0709-to-lower-case](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0709-to-lower-case) |
 ## Hash Table
 |  |
 | ------- |
