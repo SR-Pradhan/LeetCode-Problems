@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 ## String
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
