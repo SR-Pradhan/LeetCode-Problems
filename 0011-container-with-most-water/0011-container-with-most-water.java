@@ -1,25 +1,20 @@
 class Solution {
     public int maxArea(int[] height) {
         int n = height.length;
-        
-        int left = 0;
-        int right = n-1;
 
-        int maxArea = 0;
+        int low = 0;
+        int high = n - 1;
 
-        while(left < right){
-            int width = Math.min(height[left], height[right]);
-            int currHeight = right - left;
+        int maxWater = Integer.MIN_VALUE;
 
-            maxArea = Math.max(maxArea, currHeight * width);
+        while(low < high){
+            int area = (high - low) *  Math.min(height[low], height[high]);
 
-            if(height[left] < height[right]) left++;
-            else right--;
+            maxWater = Math.max(area, maxWater);
+
+            if(height[low] < height[high]) low++;
+            else high--;
         }
-
-        return maxArea; 
+        return maxWater;
     }
 }
-//Pattern: Two Pointer
-//T.C: O(n)
-//S.C: O(1)
