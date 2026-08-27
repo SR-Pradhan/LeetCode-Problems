@@ -4,17 +4,16 @@ class Solution {
 
         int low = 0;
         int high = n - 1;
-
-        int maxWater = Integer.MIN_VALUE;
+        int maxArea = 0;
 
         while(low < high){
-            int area = (high - low) *  Math.min(height[low], height[high]);
+            int area = Math.min(height[low], height[high]) * (high - low);
 
-            maxWater = Math.max(area, maxWater);
+            maxArea = Math.max(maxArea, area);
 
             if(height[low] < height[high]) low++;
             else high--;
         }
-        return maxWater;
+        return maxArea;
     }
 }
