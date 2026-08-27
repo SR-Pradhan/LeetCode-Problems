@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0665-non-decreasing-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -258,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Union-Find
 |  |
 | ------- |
