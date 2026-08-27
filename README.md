@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Simulation
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 ## Newton's Method
@@ -348,5 +351,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
