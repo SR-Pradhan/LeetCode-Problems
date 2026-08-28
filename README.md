@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0069-sqrtx) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0190-reverse-bits) |
