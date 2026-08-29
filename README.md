@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0018-4sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
@@ -368,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
