@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
+| [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 ## Counting
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 ## Newton's Method
 |  |
 | ------- |
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
