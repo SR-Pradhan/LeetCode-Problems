@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 ## Divide and Conquer
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0709-to-lower-case) |
+| [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
