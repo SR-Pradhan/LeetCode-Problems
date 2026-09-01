@@ -2,42 +2,34 @@ class Solution {
     public int trap(int[] height) {
 
         int n = height.length;
-
-        // Two pointers starting from both ends
-        int left = 0;
-        int right = n - 1;
-
-        // Maximum height seen from the left and right
-        int leftMax = 0;
-        int rightMax = 0;
-
         int totalWater = 0;
 
-        while (left <= right) {
+        // Store maximum height from the left up to each index
+        int[] leftMax = new int[n];
 
-            // The smaller boundary determines the water level
-            if (leftMax <= rightMax) {
+        // Store maximum height from the right up to each index
+        int[] rightMax = new int[n];
 
-                // Update maximum height on the left
-                leftMax = Math.max(leftMax, height[left]);
+        // Initialize boundary values
+        leftMax[0] = height[0];
+        rightMax[n - 1] = height[n - 1];
 
-                // Water trapped at current left position
-                totalWater += leftMax - height[left];
+        // Build leftMax array
+        for (int i = 1; i < n; i++) {
+            leftMax[i] = Math.max(leftMax[i - 1], height[i]);
+        }
 
-                // Move left pointer
-                left++;
+        // Build rightMax array
+        for (int i = n - 2; i >= 0; i--) {
+            rightMax[i] = Math.max(rightMax[i + 1], height[i]);
+        }
 
-            } else {
+        // Calculate trapped water at each index
+        for (int i = 0; i < n; i++) {
 
-                // Update maximum height on the right
-                rightMax = Math.max(rightMax, height[right]);
+            int water = Math.min(leftMax[i], rightMax[i]) - height[i];
 
-                // Water trapped at current right position
-                totalWater += rightMax - height[right];
-
-                // Move right pointer
-                right--;
-            }
+            totalWater += water;
         }
 
         return totalWater;
