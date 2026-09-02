@@ -1,37 +1,33 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
+        int[] freq1 = new int[26];
+        int[] freq2 = new int[26];
 
-        if (s1.length() > s2.length()) {
-            return false;
+        int n = s1.length();
+        int left = 0;
+        int right = 0;
+
+        // Store character frequencies of s1
+        for (int i = 0; i < n; i++) {
+            freq1[s1.charAt(i) - 'a']++;
         }
 
-        // To maintain s1 frequency
-        int[] arr1 = new int[26];
-
-        // To maintain current window frequency in s2
-        int[] arr2 = new int[26];
-
-        // Build frequency array for s1
-        for (int i = 0; i < s1.length(); i++) {
-            arr1[s1.charAt(i) - 'a']++;
-        }
-
-        int j = 0;
-
-        for (int k = 0; k < s2.length(); k++) {
+        // Sliding window over s2
+        while (right < s2.length()) {
 
             // Add current character to the window
-            arr2[s2.charAt(k) - 'a']++;
+            freq2[s2.charAt(right) - 'a']++;
+            right++;
 
-            // Shrink window if it exceeds s1's length
-            if (k - j + 1 > s1.length()) {
-                arr2[s2.charAt(j) - 'a']--;
-                j++;
+            // Window is too large, remove the leftmost character
+            if (right - left > n) {
+                freq2[s2.charAt(left) - 'a']--;
+                left++;
             }
 
-            // Compare frequency arrays when window size matches s1
-            if (k - j + 1 == s1.length()) {
-                if (Arrays.equals(arr1, arr2)) {
+            // Check if current window is a permutation of s1
+            if (right - left == n) {
+                if (Arrays.equals(freq1, freq2)) {
                     return true;
                 }
             }
