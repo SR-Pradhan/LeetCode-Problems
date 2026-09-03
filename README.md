@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1539-kth-missing-positive-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
+| [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 ## Math
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0377-combination-sum-iv](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
+| [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 ## Newton's Method
 |  |
 | ------- |
