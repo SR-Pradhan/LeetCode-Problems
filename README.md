@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1642-furthest-building-you-can-reach](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1642-furthest-building-you-can-reach) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 ## Divide and Conquer
 |  |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1642-furthest-building-you-can-reach) |
+| [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
