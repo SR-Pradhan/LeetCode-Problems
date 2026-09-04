@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0665-non-decreasing-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1642-furthest-building-you-can-reach) |
 | [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1642-furthest-building-you-can-reach](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1642-furthest-building-you-can-reach) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Database
 |  |
 | ------- |
