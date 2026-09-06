@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0089-gray-code) |
+| [0171-excel-sheet-column-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
