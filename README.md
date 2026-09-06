@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0377-combination-sum-iv](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
+| [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 ## Counting
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
+| [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 ## Longest Common Subsequence
 |  |
