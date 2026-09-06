@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0665-non-decreasing-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0093-restore-ip-addresses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0377-combination-sum-iv](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Longest Common Subsequence
 |  |
 | ------- |
