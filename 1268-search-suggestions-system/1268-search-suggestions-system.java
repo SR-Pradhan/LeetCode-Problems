@@ -1,5 +1,4 @@
 class Solution {
-
     public List<List<String>> suggestedProducts(String[] products, String searchWord) {
 
         List<List<String>> ans = new ArrayList<>();
@@ -9,27 +8,38 @@ class Solution {
 
         StringBuilder prefix = new StringBuilder();
 
-        // Build the prefix one character at a time
         for (char ch : searchWord.toCharArray()) {
 
             prefix.append(ch);
+            String currentPrefix = prefix.toString();
 
-            ArrayList<String> result = new ArrayList<>();
+            int low = 0;
+            int high = products.length;
 
-            // Find products matching the current prefix
-            for (String str : products) {
+            // Find the first product >= currentPrefix
+            while (low < high) {
 
-                if (str.startsWith(prefix.toString())) {
-                    result.add(str);
-                }
+                int mid = low + (high - low) / 2;
 
-                // We only need 3 suggestions
-                if (result.size() == 3) {
-                    break;
+                if (products[mid].compareTo(currentPrefix) < 0) {
+                    low = mid + 1;
+                } else {
+                    high = mid;
                 }
             }
 
-            // Store suggestions for the current prefix
+            // Collect up to 3 matching products
+            List<String> result = new ArrayList<>();
+
+            for (int i = low; i < products.length; i++) {
+
+                if (products[i].startsWith(currentPrefix)) {
+                    result.add(products[i]);
+                }
+
+                if(result.size() == 3) break;
+            }
+
             ans.add(result);
         }
 
