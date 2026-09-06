@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -502,8 +505,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
