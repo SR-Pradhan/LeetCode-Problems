@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
+| [1859-sorting-the-sentence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
+| [1859-sorting-the-sentence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -528,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
