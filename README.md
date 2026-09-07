@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
