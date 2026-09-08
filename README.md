@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1162-as-far-from-land-as-possible](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1162-as-far-from-land-as-possible](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1162-as-far-from-land-as-possible) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
