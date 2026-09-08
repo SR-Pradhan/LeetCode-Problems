@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0870-advantage-shuffle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
