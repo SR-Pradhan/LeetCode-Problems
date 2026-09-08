@@ -1,48 +1,24 @@
 class Solution {
     public List<List<String>> suggestedProducts(String[] products, String searchWord) {
-
-        List<List<String>> ans = new ArrayList<>();
-
-        // Sort products lexicographically
         Arrays.sort(products);
 
-        StringBuilder prefix = new StringBuilder();
+        StringBuilder sb = new StringBuilder();
+        List<List<String>> ans = new ArrayList<>();
 
-        for (char ch : searchWord.toCharArray()) {
 
-            prefix.append(ch);
-            String currentPrefix = prefix.toString();
+        for(char ch : searchWord.toCharArray()){
+            ArrayList<String> list = new ArrayList<>();
+            sb = sb.append(ch);
 
-            int low = 0;
-            int high = products.length;
-
-            // Find the first product >= currentPrefix
-            while (low < high) {
-
-                int mid = low + (high - low) / 2;
-
-                if (products[mid].compareTo(currentPrefix) < 0) {
-                    low = mid + 1;
-                } else {
-                    high = mid;
+            for(String str : products){
+                if(str.startsWith(sb.toString())){
+                    list.add(str);
                 }
+                if(list.size() == 3) break;
             }
-
-            // Collect up to 3 matching products
-            List<String> result = new ArrayList<>();
-
-            for (int i = low; i < products.length; i++) {
-
-                if (products[i].startsWith(currentPrefix)) {
-                    result.add(products[i]);
-                }
-
-                if(result.size() == 3) break;
-            }
-
-            ans.add(result);
+            ans.add(list);
         }
-
         return ans;
+        
     }
 }
