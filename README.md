@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1642-furthest-building-you-can-reach](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1642-furthest-building-you-can-reach) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
+| [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 ## Divide and Conquer
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0922-sort-array-by-parity-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
 ## String
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1859-sorting-the-sentence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
+| [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
 ## Hash Table
 |  |
 | ------- |
