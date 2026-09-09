@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1822-sign-of-the-product-of-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3516-find-closest-person](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
