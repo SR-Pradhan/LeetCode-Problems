@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
+| [2540-minimum-common-value](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
+| [2540-minimum-common-value](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
+| [2540-minimum-common-value](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
+| [2540-minimum-common-value](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
