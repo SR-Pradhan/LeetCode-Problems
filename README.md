@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1162-as-far-from-land-as-possible](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0888-fair-candy-swap](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0888-fair-candy-swap) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1162-as-far-from-land-as-possible](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Union-Find
 |  |
 | ------- |
