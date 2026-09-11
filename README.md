@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0888-fair-candy-swap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0932-beautiful-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
+| [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0932-beautiful-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0427-construct-quad-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1162-as-far-from-land-as-possible](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -618,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
