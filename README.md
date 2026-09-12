@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0661-image-smoother](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0427-construct-quad-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1162-as-far-from-land-as-possible](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1162-as-far-from-land-as-possible) |
