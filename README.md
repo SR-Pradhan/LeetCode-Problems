@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 | [2540-minimum-common-value](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2643-row-with-maximum-ones) |
 | [2923-find-champion-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2643-row-with-maximum-ones) |
 | [2923-find-champion-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
