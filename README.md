@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-prime-in-diagonal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2923-find-champion-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3033-modify-the-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-prime-in-diagonal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2923-find-champion-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3033-modify-the-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
