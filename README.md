@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0078-subsets) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0427-construct-quad-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0427-construct-quad-tree) |
