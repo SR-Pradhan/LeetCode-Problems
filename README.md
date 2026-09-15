@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0567-permutation-in-string) |
