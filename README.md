@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
