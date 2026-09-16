@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0441-arranging-coins) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Design
 |  |
 | ------- |
