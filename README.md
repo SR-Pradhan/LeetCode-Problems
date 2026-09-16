@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1822-sign-of-the-product-of-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2582-pass-the-pillow](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3516-find-closest-person](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2582-pass-the-pillow](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2582-pass-the-pillow) |
 ## Union-Find
 |  |
 | ------- |
