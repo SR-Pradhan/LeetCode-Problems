@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0870-advantage-shuffle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [1323-maximum-69-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1642-furthest-building-you-can-reach](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1642-furthest-building-you-can-reach) |
 ## Binary Search
 |  |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0932-beautiful-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
