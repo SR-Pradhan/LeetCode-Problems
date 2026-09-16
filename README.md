@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
@@ -669,4 +670,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
