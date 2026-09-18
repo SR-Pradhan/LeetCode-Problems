@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2582-pass-the-pillow](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3270-find-the-key-of-the-numbers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3516-find-closest-person](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
