@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Manacher
 |  |
 | ------- |
