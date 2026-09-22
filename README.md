@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0155-min-stack) |
