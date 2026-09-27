@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0427-construct-quad-tree) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Iterator
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0463-island-perimeter](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
