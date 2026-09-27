@@ -516,10 +516,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0901-online-stock-span](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 ## String Matching
 |  |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Manacher
 |  |
 | ------- |
