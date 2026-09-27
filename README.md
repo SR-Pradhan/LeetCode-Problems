@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0473-matchsticks-to-square](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0376-wiggle-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0376-wiggle-subsequence) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0427-construct-quad-tree) |
@@ -637,11 +640,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Iterator
