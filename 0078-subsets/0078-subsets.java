@@ -1,33 +1,30 @@
 class Solution {
 
-    public static void solve(int i, int[] nums, List<Integer> current, List<List<Integer>> ans) {
+    public static void solution(int[] arr, List<List<Integer>> ans, ArrayList<Integer> current, int index) {
 
-        if (i == nums.length) {
-            ans.add(new ArrayList<>(current)); // Store a copy of current subset
+        if(index == arr.length){
+            ans.add(new ArrayList<>(current));
             return;
         }
 
-        // Include nums[i]
-        current.add(nums[i]);
-        solve(i + 1, nums, current, ans);
+        // Take
+        current.add(arr[index]);
+        solution(arr, ans, current, index + 1);
 
         // Backtrack
         current.remove(current.size() - 1);
 
-        // Exclude nums[i]
-        solve(i + 1, nums, current, ans);
+        // Not take
+        solution(arr, ans, current, index + 1);
     }
 
     public List<List<Integer>> subsets(int[] nums) {
 
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> current = new ArrayList<>();
+        ArrayList<Integer> current = new ArrayList<>();
 
-        solve(0, nums, current, ans);
+        solution(nums, ans, current, 0);
 
         return ans;
     }
 }
-//Pattern: Recursion
-//T.C: O(n × 2^n)
-//S.C: O(n), max Stack Space
