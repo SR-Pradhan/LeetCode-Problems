@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
@@ -732,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
