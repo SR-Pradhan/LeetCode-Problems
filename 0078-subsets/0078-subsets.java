@@ -1,30 +1,24 @@
 class Solution {
+    public void helper(List<List<Integer>> ans, ArrayList<Integer> current, int[] arr, int index, int n){
 
-    public static void solution(int[] arr, List<List<Integer>> ans, ArrayList<Integer> current, int index) {
-
-        if(index == arr.length){
+        if(index == n){
             ans.add(new ArrayList<>(current));
             return;
         }
-
-        // Take
+        
         current.add(arr[index]);
-        solution(arr, ans, current, index + 1);
-
-        // Backtrack
+        helper(ans, current, arr, index + 1, n);
         current.remove(current.size() - 1);
-
-        // Not take
-        solution(arr, ans, current, index + 1);
+        helper(ans, current, arr, index + 1, n);
+        
     }
-
     public List<List<Integer>> subsets(int[] nums) {
-
         List<List<Integer>> ans = new ArrayList<>();
         ArrayList<Integer> current = new ArrayList<>();
-
-        solution(nums, ans, current, 0);
-
+        
+        int n = nums.length; 
+        helper(ans, current, nums, 0, n); 
         return ans;
+        
     }
 }
