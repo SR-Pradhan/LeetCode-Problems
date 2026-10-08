@@ -1,22 +1,16 @@
 class Solution {
     public int missingNumber(int[] nums) {
-
         int n = nums.length;
 
-        int xor1 = 0;
-        int xor2 = 0;
+        HashSet<Integer> set = new HashSet<>();
 
-        for(int i = 0; i <=  n; i++){
-            xor1 ^= i;
+        for(int i = 0; i < n; i++){
+            set.add(nums[i]);
         }
 
-          for(int i = 0; i < nums.length; i++){
-            xor2 ^= nums[i];
+        for(int j = 0; j <= n; j++){
+            if(!set.contains(j)) return j;
         }
-
-        return xor1 ^ xor2;
-
-        
-        
+        return -1;
     }
 }
