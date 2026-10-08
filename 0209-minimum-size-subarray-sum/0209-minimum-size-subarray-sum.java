@@ -5,32 +5,18 @@ class Solution {
         int left = 0;
         int right = 0;
 
-        int minSize = Integer.MAX_VALUE;
+        int minLen = Integer.MAX_VALUE;
         int sum = 0;
 
-        while (right < n) {
-
-            // Expand the window by adding nums[right]
+        while(right < n){
             sum += nums[right];
             right++;
-
-            // Shrink the window while the sum is valid
-            while (sum >= target) {
-
-                // Update the minimum window length
-                minSize = Math.min(minSize, right - left);
-
-                // Remove the leftmost element
+            while(sum >= target){
+                minLen = Math.min(minLen, (right - left));
                 sum -= nums[left];
                 left++;
-            }
+            } 
         }
-
-        // No valid subarray found
-        if (minSize == Integer.MAX_VALUE) {
-            return 0;
-        }
-
-        return minSize;
+        return minLen == Integer.MAX_VALUE ? 0 : minLen;
     }
 }
