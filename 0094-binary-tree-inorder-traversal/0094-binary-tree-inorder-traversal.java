@@ -13,31 +13,18 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
+    public void helper(TreeNode root, ArrayList<Integer> ans){
+        if(root == null) return;
+
+        helper(root.left, ans);
+        ans.add(root.val);
+        helper(root.right, ans);
+    }
     public List<Integer> inorderTraversal(TreeNode root) {
+        ArrayList<Integer> ans = new ArrayList<>();
 
-        List<Integer> ans = new ArrayList<>();
-        Stack<TreeNode> stk = new Stack<>();
-
-        TreeNode curr = root;
-
-        while (curr != null || !stk.isEmpty()) {
-
-            // Go to the leftmost node
-            while (curr != null) {
-                stk.push(curr);
-                curr = curr.left;
-            }
-
-            // Process the node
-            curr = stk.pop();
-            ans.add(curr.val);
-
-            // Move to the right subtree
-            curr = curr.right;
-        }
+        helper(root, ans);
 
         return ans;
     }
