@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [0896-monotonic-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0932-beautiful-array) |
