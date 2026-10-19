@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
