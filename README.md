@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2643-row-with-maximum-ones) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1834-single-threaded-cpu](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1834-single-threaded-cpu) |
 | [1859-sorting-the-sentence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## String
 |  |
