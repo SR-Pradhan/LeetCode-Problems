@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0819-most-common-word](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0870-advantage-shuffle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0870-advantage-shuffle) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1859-sorting-the-sentence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0740-delete-and-earn](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0888-fair-candy-swap) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [2013-detect-squares](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2013-detect-squares) |
 ## Counting Sort
 |  |
