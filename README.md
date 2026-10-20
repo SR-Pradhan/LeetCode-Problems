@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1162-as-far-from-land-as-possible) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0427-construct-quad-tree) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Iterator
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0463-island-perimeter](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0463-island-perimeter) |
