@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1408-string-matching-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [1268-search-suggestions-system](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1268-search-suggestions-system) |
+| [1408-string-matching-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1859-sorting-the-sentence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
