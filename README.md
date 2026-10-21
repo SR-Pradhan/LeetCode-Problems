@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1598-crawler-log-folder](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1859-sorting-the-sentence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1898-maximum-number-of-removable-characters) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
