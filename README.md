@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3033-modify-the-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3886-sum-of-sortable-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
