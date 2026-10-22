@@ -23,7 +23,7 @@ class Solution {
         q.offer(root);
 
         while(!q.isEmpty()){
-         ArrayList<Integer> current = new ArrayList<>();
+            ArrayList<Integer> current = new ArrayList<>();
             int n = q.size();
 
             for(int i = 0 ; i < n; i++){
@@ -37,6 +37,7 @@ class Solution {
             ans.add(current);
         }
         Collections.reverse(ans);
+
         return ans;
     }
 }
