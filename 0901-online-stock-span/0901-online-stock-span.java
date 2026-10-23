@@ -1,34 +1,28 @@
-import java.util.Stack;
-
 class StockSpanner {
-
-    Stack<int[]> stk = new Stack<>();
-    int index = 0;
+    ArrayList<Integer> ans;
 
     public StockSpanner() {
+        ans = new ArrayList<>();
+        
     }
     
     public int next(int price) {
+        ans.add(price);
+        int span = 1;
 
-        // Remove previous prices <= current price
-        while(!stk.isEmpty() && stk.peek()[0] <= price){
-            stk.pop();
+        for(int i = ans.size() - 2; i >= 0; i--){
+            if(ans.get(i) <= price){
+                span++;
+            }else{
+                break;
+            }
         }
-
-        int span;
-
-        // No greater price on the left
-        if(stk.isEmpty()){
-            span = index + 1;
-        }else{
-            // Nearest greater price blocks the span
-            span = index - stk.peek()[1];
-        }
-
-        // Store current price and its index
-        stk.push(new int[]{price, index});
-        index++;
-
         return span;
     }
 }
+
+/**
+ * Your StockSpanner object will be instantiated and called as such:
+ * StockSpanner obj = new StockSpanner();
+ * int param_1 = obj.next(price);
+ */
