@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0427-construct-quad-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Iterator
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0463-island-perimeter](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Queue
@@ -806,4 +809,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0146-lru-cache) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
