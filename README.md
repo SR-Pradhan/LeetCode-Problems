@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0137-single-number-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0938-range-sum-of-bst](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
