@@ -1,42 +1,43 @@
 class Solution {
+    public void swap(int[] nums, int left, int right){
+        while(left <= right){
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+
+            left++;
+            right--;
+        }
+    }
     public void nextPermutation(int[] nums) {
         int n = nums.length;
+        int pivort = -1;
+        int swap = 0;
 
-        int index = -1;
-
-        // Find the break point
-        for (int right = n - 1; right > 0; right--) {
-            if (nums[right] > nums[right - 1]) {
-                index = right - 1;
+        for(int i = n - 1; i > 0; i--){
+            if(nums[i] > nums[i - 1]){
+                pivort = i - 1;
                 break;
             }
         }
 
-        // Find the just greater element and swap it
-        if (index != -1) {
-            int jGreater = index + 1;
-
-            for (int i = index + 1; i < n; i++) {
-                if (nums[i] > nums[index] && nums[i] <= nums[jGreater]) {
-                    jGreater = i;
-                }
+        if(pivort == -1){
+            swap(nums, 0, n - 1);
+            return;
+        }
+        
+    
+        for(int j = n - 1; j >= pivort; j--){
+            if(nums[j] > nums[pivort]){
+                swap = j;
+                break;
             }
-
-            int temp = nums[index];
-            nums[index] = nums[jGreater];
-            nums[jGreater] = temp;
         }
 
-        // Reverse the remaining array
-        int i = index + 1;
-        int j = n - 1;
+        int temp = nums[pivort];
+        nums[pivort] = nums[swap];
+        nums[swap] = temp;
 
-        while (i < j) {
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
-            i++;
-            j--;
-        }
+        swap(nums, pivort + 1, n - 1);
     }
 }
