@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2923-find-champion-i](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3886-sum-of-sortable-integers](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SR-Pradhan/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Database
 |  |
 | ------- |
